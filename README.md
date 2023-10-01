@@ -1,8 +1,6 @@
 # LIVE-NEWS
 # Live News
 
-![Live News Logo](https://example.com/live-news-logo.png)
-
 Live News is a web application that provides real-time news updates from various sources, keeping users informed about the latest events around the world. This repository contains the source code and documentation for the Live News project.
 
 ## Table of Contents
